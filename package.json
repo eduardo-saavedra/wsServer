@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/eduardo-saavedra/wsServer/issues"
   },
-  "homepage": "https://github.com/eduardo-saavedra/wsServer#readme"
+  "homepage": "https://github.com/eduardo-saavedra/wsServer#readme",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
 }
